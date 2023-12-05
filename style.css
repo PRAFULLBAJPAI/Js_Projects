@@ -1,0 +1,25 @@
+body{
+    background-color: #212121;
+    color: aqua;
+}
+
+• center {
+    text-align: center;
+    
+    }
+#clock{
+    font-size:40px;
+    background-color: rgb(153, 0, 255);
+    padding: 20px 50px;
+    margin-top: 40px;
+    border-radius: 10px;
+    text-align:center;
+    width: 30%;
+    margin-left: 28%;
+}
+
+#banner{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
